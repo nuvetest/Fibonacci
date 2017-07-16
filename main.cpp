@@ -6,7 +6,7 @@ int main()
     int n = 10;
     int t1 = 0, t2 = 1, nextTerm = 0;
 
-    cout << "Generating Fibonacci Series for " << n <<  " terms" << endl;
+//    cout << "Generating Fibonacci Series for " << n <<  " terms" << endl;
 
     for (int i = 1; i <= n; ++i)
     {
